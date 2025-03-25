@@ -2,7 +2,7 @@
 
 [An instruction how to install R kernel in Jupyter](https://github.com/IRkernel/IRkernel)
 
-
+  
 #### Additional literarure: 
 
 For understanding written or translated to Russian (all the basic concepts are nicely explained):
